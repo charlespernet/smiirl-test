@@ -1,9 +1,6 @@
 {
-  "posts": [
+  "orders": 
     {
-      "id": 1,
-      "title": "hello"
+      "number": 130
     }
-  ],
-  "number": 130
 }
