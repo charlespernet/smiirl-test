@@ -1,6 +1,11 @@
 {
-  "orders": 
+  "posts": [
     {
-      "number": 130
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "number": 12
+  }
 }
